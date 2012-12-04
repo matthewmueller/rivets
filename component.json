@@ -1,10 +1,10 @@
 {
   "name": "rivets",
-  "repo": "mikeric/rivets",
+  "repo": "matthewmueller/rivets",
   "description": "Declarative data binding facility.",
   "version": "0.4.4",
   "keywords": ["data binding", "template"],
-  "scripts": ["lib/rivets.js"],
-  "main": "lib/rivets.js",
+  "scripts": ["lib/rivets.js", "index.js"],
+  "main": "index.js",
   "license": "MIT"
 }
